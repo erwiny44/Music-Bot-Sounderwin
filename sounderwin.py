@@ -552,4 +552,4 @@ async def on_ready():
 
 
 bot.run(
-    'MTAwNDA4NjY0NTkwNzI3OTkxMg.Gb0prc.Ut0YRWm0er4RbyuOZJY1jJ0D9hMKfpp8Fj8a-8')
+    'TOKEN')
